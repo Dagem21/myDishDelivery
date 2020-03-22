@@ -1,0 +1,143 @@
+{
+	"ImportPath": "github.com/dagem21/MyDishDelivery/delivery/http",
+	"GoVersion": "go1.13",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/comments",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/comments/repository",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/comments/service",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/companies",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/companies/repository",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/companies/service",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/customers",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/customers/repository",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/customers/service",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/delivery/http/handler",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/employed",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/employed/repository",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/employed/service",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/employees",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/employees/repository",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/employees/service",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/entity",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/favorites",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/favorites/repository",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/favorites/service",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/foods",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/foods/repository",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/foods/service",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/managers",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/managers/repository",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/managers/service",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/orders",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/orders/repository",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/dagem21/mydishdelivery/orders/service",
+			"Rev": "124154d588fcac9d4bb96c624a7972b7b0413764"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.5.0-5-g681ffa8",
+			"Rev": "681ffa848bae8d0d7b1a452963c0705b132308f7"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm",
+			"Comment": "v1.9.11-36-g79a77d7",
+			"Rev": "79a77d771dee4e4b60e9c543e8663bbc80466670"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/inflection",
+			"Comment": "v1.0.0",
+			"Rev": "f5c5f50e6090ae76a29240b61ae2a90dd810112e"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Comment": "v1.3.0-19-g08a3b3d",
+			"Rev": "08a3b3d20bbeeab9ca4889bcdb65fec0423ef882"
+		}
+	]
+}
